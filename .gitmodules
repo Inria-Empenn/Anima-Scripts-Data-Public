@@ -1,0 +1,4 @@
+[submodule "DbConnector"]
+path = private
+url = git@github.com:Inria-Visages/Anima-Scripts-Data
+
