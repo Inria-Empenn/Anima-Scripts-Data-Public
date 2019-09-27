@@ -1,4 +1,3 @@
-[submodule "DbConnector"]
-path = private
-url = git@github.com:Inria-Visages/Anima-Scripts-Data
-
+[submodule "private"]
+	path = private
+	url = git@github.com:Inria-Visages/Anima-Scripts-Data.git
