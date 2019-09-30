@@ -1,4 +1,4 @@
 [submodule "private"]
 	path = private
 	url = git@github.com:Inria-Visages/Anima-Scripts-Data.git
-	branch = master
+	branch = music-v3.1
